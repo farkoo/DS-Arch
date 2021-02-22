@@ -11,4 +11,5 @@ g++ pro.cpp -o pro
 ./pro
 
 # Example:
-![alt text](https://github.com/fark00/DS-Arch/blob/main/run.png?raw=true)
+![alt text](https://github.com/fark00/DS-Arch/blob/master/run.png?raw=true)
+
