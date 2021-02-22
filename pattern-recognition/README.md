@@ -12,7 +12,7 @@ g++ pro.cpp -o pro
 ./pro
 
 # Example:
-![alt text](https://github.com/fark00/DS-Arch/pattern-recognition/blob/master/run.png?raw=true)
+![alt text](https://github.com/fark00/DS-Arch/blob/master/pattern-recognition/run.png?raw=true)
 
 ## Output
 The start and end coordinates of the match are printed in the output.
