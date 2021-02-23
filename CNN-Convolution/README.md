@@ -16,3 +16,18 @@
 ### Result1
 <img src="https://github.com/fark00/DS-Arch/blob/master/CNN-Convolution/result2.PNG" width="500" height="500">
 
+## Requirement:
+
+I used VSCode for this program. 
+
+## Support
+
+**Contact me @:**
+
+e-mail:
+
+farzanehkoohestani2000@gmail.com
+
+Telegram id:
+
+@farzaneh_koohestani
