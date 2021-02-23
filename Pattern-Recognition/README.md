@@ -15,6 +15,10 @@ After running the program, the start and end coordinates of the match are displa
 ## Example:
 <img src="https://github.com/fark00/DS-Arch/blob/master/Pattern-Recognition/run.png">
 
+### Requirement
+
+I user VSCode for this program.
+
 ## Support
 
 **Contact me @:**
