@@ -17,7 +17,7 @@ After running the program, the start and end coordinates of the match are displa
 
 ### Requirement
 
-I user VSCode for this program.
+I user VSCode for this program. (or g++ compiler)
 
 ## Support
 
