@@ -27,6 +27,10 @@ Types of brackets supported in this program:
 ## Exapmle
 <img src="https://github.com/fark00/DS-Arch/blob/master/Compiler-Brackets/run-cb.png">
 
+## Requirement:
+
+I used VSCode for this program. 
+
 ## Support
 
 **Contact me @:**
