@@ -2,7 +2,8 @@
 
 ## In this program, the correctness of opening and closing the brackets is checked.
 
-**remark**
+### **remark**
+
 Types of brackets supported in this program:
 * ( )
 * \[ \]
@@ -18,6 +19,7 @@ Types of brackets supported in this program:
 (){}(())
 
 ***Incorrect input:***
+
 ()(
 
 ()(){<}>
