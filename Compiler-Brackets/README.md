@@ -14,13 +14,13 @@ Types of brackets supported in this program:
 
 ***Correct input:*** 
 
-(*<{({})[]{[()()]}}>*)
+- (*<{({})[]{[()()]}}>*)
 
-(){}(())
+- (){}(())
 
 ***Incorrect input:***
 
-()(
+- ()(
 
-()(){<}>
+- ()(){<}>
 
