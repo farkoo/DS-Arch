@@ -7,16 +7,18 @@ Types of brackets supported in this program:
 * ( )
 * \[ \]
 *  { }
-*  (* *) (Incorrect: (*))
+*  (* \*) (Incorrect: (\*))
 *  < >
 
 
 ***Correct input:*** 
 
 (*<{({})[]{[()()]}}>*)
+
 (){}(())
 
 ***Incorrect input:***
 ()(
+
 ()(){<}>
 
