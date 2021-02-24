@@ -4,3 +4,10 @@
 
 ## The input information is read from the txt.in file and the program output is written to the out.txt file.
 
+## Example
+<img src="https://github.com/fark00/DS-Arch/blob/master/BWF/BWF-run.png">
+
+## Requirement
+* G++ Compiler
+
+
