@@ -18,7 +18,7 @@
 
 ## Requirement:
 
-I used VSCode for this program. 
+I used Pycharm for this program. 
 
 **Contact me @:**
 
