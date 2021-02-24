@@ -1,0 +1,8 @@
+10000
+First Fit
+allocate(500,m1)
+allocate(5000,m2)
+allocate(200,m3)
+free(m2)
+allocate(400,m4)
+
