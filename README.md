@@ -10,3 +10,9 @@ Finding the Vertical lines in the image using the first filter
 
 ## Compiler Brackets
 In this program, the correctness of opening and closing the brackets is checked.
+
+## Eternity Train
+Mini project :)
+
+## Pattern Recognition
+In this program, by receiving a matrix and a pattern, we check whether this pattern is in the matrix or not.
