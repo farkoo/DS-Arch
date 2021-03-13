@@ -7,3 +7,6 @@ In this program, memory is implemented and managed by a doubly linked list, and 
 
 ## CNN
 Finding the Vertical lines in the image using the first filter
+
+## Compiler Brackets
+In this program, the correctness of opening and closing the brackets is checked.
