@@ -16,3 +16,21 @@ Mini project :)
 
 ## Pattern Recognition
 In this program, by receiving a matrix and a pattern, we check whether this pattern is in the matrix or not.
+
+
+## Support
+
+**Contact me @:**
+
+e-mail:
+
+* farzanehkoohestani2000@gmail.com
+
+Telegram id:
+
+* [@farzaneh_koohestani](https://t.me/farzaneh_koohestani)
+
+## License
+[MIT](https://github.com/farkoo/CV-with-Matlab/blob/master/LICENSE)
+&#0169; 
+[Farzaneh Koohestani](https://github.com/farkoo)
